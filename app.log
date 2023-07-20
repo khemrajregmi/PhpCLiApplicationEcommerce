@@ -54,3 +54,8 @@
 [2023-06-14T13:56:42.662793+00:00] cli-app.INFO: count_by_vendor_id command executed {"vendorId":"250"} []
 [2023-06-14T14:06:12.740383+00:00] cli-app.INFO: count_by_vendor_id command executed {"vendorId":"250"} []
 [2023-06-14T14:23:43.966586+00:00] cli-app.INFO: count_by_price_range command executed {"from":"250","to":"0"} []
+[2023-07-20T07:04:15.132063+00:00] cli-app.ERROR: Invalid command {"command":null} []
+[2023-07-20T07:04:15.132925+00:00] cli-app.ERROR: Exception caught {"exception":"[object] (Exception(code: 0): Invalid command at /Users/khemrajregmi/Desktop/Projects/Coading challenge/Metro/run.php:64)"} []
+[2023-07-20T07:05:58.971335+00:00] cli-app.ERROR: Invalid command {"command":null} []
+[2023-07-20T07:05:58.973066+00:00] cli-app.ERROR: Exception caught {"exception":"[object] (Exception(code: 0): Invalid command at /Users/khemrajregmi/Desktop/Projects/Coading challenge/Metro/run.php:64)"} []
+[2023-07-20T07:17:20.868773+00:00] cli-app.INFO: count_by_price_range command executed {"from":"12.00","to":"145.80"} []
