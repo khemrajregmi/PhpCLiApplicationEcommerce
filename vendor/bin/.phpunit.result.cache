@@ -1,0 +1,1 @@
+{"version":1,"defects":{"OfferCollectionTest::testFindByPriceRange":5,"OfferCollectionTest::testFindByVendorId":5},"times":{"OfferCollectionTest::testFindByPriceRange":0.007,"OfferCollectionTest::testFindByVendorId":0}}

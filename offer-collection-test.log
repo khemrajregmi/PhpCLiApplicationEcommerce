@@ -1,0 +1,8 @@
+[2023-06-14T11:45:15.186756+00:00] offer-collection-test.INFO: Test findByPriceRange started [] []
+[2023-06-14T11:45:15.194667+00:00] offer-collection-test.INFO: Test findByVendorId started [] []
+[2023-06-14T11:48:14.106021+00:00] offer-collection-test.INFO: Test findByPriceRange started [] []
+[2023-06-14T11:48:14.114483+00:00] offer-collection-test.INFO: Test findByVendorId started [] []
+[2023-06-14T11:53:13.673671+00:00] offer-collection-test.INFO: Test findByPriceRange started [] []
+[2023-06-14T11:53:13.682371+00:00] offer-collection-test.INFO: Test findByVendorId started [] []
+[2023-06-14T11:53:35.860766+00:00] offer-collection-test.INFO: Test findByPriceRange started [] []
+[2023-06-14T11:53:35.866967+00:00] offer-collection-test.INFO: Test findByVendorId started [] []
